@@ -18,3 +18,4 @@ A custom-designed bench-top power supply that converts AC to DC with adjustable 
 - DipTrace (PCB design)
 - Multisim
 - Soliworks
+- Workshop/Power Tools for Metal Work
